@@ -105,6 +105,7 @@ Write a README.md file with clear instructions so I can follow it to install the
 - <img width="407" height="507" alt="image" src="https://github.com/user-attachments/assets/d4fa9c29-089e-4a08-9149-2e445a4c664f" />
 
 #### Kiểm tra lại, và hoàn thiện, mở rộng tính năng
+<img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/ef3cca5b-352f-46fe-82be-b797b0ff238d" />
 
 
 
