@@ -1,7 +1,7 @@
 # Hướng Dẫn Sử dụng AI để tự động hóa công việc
 
 ## Công cụ chuẩn bị
-- Cursor: `[https://code.visualstudio.com/](https://cursor.com/download)` 
+- Cursor: `https://cursor.com/download` 
 - Claude AI: `https://claude.ai/chat/`
 
 
